@@ -1,4 +1,4 @@
-Below is a professional and comprehensive **README.md** template tailored for your GitHub repository for the **Multiple Disease Prediction Streamlit App**. It includes all necessary sections to clearly describe your project, setup instructions, and usage details. You can copy this directly into your repository's `README.md` file.
+
 
 ---
 
