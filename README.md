@@ -157,7 +157,7 @@ Please ensure your code follows the project's style and includes appropriate doc
 ---
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute as per the license terms.
+This project is made by Soumyajit Banerjee
 
 ---
 
@@ -174,4 +174,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 For any questions or suggestions, feel free to open an issue or contact me at `<soumyajitb0912@gmailcom>`.
 
 ---
+
 
